@@ -13,8 +13,9 @@
     - Download empty-database version for a fresh start of the program. [[Download Link]](https://github.com/AIPEAC/SC2002-OOP/releases/download/Release-v1/Release-v1.1.zip)
     - Download presentation version to present directly. [[Download Link]](https://github.com/AIPEAC/SC2002-OOP/releases/download/Presentation_v3/Presentation-v3.3.zip)
   - **Run the Program**
-    - **Windows**: Distract the zip file you just download, right click on `run.ps1`, and click `Run with Powershell`
-    - **Linux**: `sh ./run.sh`
+    - Distract the zip file you just download, 
+      - **Windows**: right click on `run.ps1`, and click `Run with Powershell`
+      - **Linux**: `sh ./run.sh`
 ## What This Application Does
 
 This is a desktop application built in Java that helps manage internship opportunities between students, companies, and career staff at a university. It handles the entire process from posting internships to students accepting offers.
