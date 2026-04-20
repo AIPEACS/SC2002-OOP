@@ -10,8 +10,8 @@
   - Teja: Provided Filtering Algorithm.
 - How to use:
   - **Download**
-    - Download empty-database version for a fresh start of the program. [[Download Link]](https://github.com/AIPEAC/SC2002-OOP/releases/download/Release-v1/Release-v1.1.zip)
-    - Download presentation version to present directly. [[Download Link]](https://github.com/AIPEAC/SC2002-OOP/releases/download/Presentation_v3/Presentation-v3.3.zip)
+    - Download empty-database version for a fresh start of the program. [[Download Link]](https://github.com/AIPEACS/SC2002-OOP/releases/download/Release-v1/Release-v1.1.1.zip)
+    - Download presentation version to present directly. [[Download Link]](https://github.com/AIPEAC/SC2002-OOP/releases/download/Presentation_v3/Presentation-v3.3.1.zip)
   - **Run the Program**
     - Distract the zip file you just download, 
       - **Windows**: right click on `run.ps1`, and click `Run with Powershell`
