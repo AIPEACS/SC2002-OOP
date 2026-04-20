@@ -15,7 +15,7 @@
   - **Run the Program**
     - Distract the zip file you just download, 
       - **Windows**: right click on `run.ps1`, and click `Run with Powershell`
-      - **Linux**: `sh ./run.sh`
+      - **Mac/Linux**: `sh ./run.sh`
 ## What This Application Does
 
 This is a desktop application built in Java that helps manage internship opportunities between students, companies, and career staff at a university. It handles the entire process from posting internships to students accepting offers.
